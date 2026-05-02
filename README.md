@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🌿 Smart Garden – Hệ Thống Tưới Cây Thông Minh
 
 <p align="center">
@@ -38,13 +38,61 @@
 ## 1. Thông tin chung
 
 | Mục | Thông tin |
-|-----|-----------|
-| **Tên đề tài** | Xây dựng hệ thống điều khiển tưới tiêu thông minh trên nền tảng IoT |
-| **Trường** | [Trường Đại học Sư phạm - Đại học Đà Nẵng] |
-| **Khoa | [Khoa Toán - Tin] |
-| **Môn học** | [Khóa luận tốt nghiệp] |
-| **Học kỳ** | [Học kỳ 2] |
-| **Năm học** | 2025 – 2026 |
+|:---|:---|
+| **Tên đề tài (Tiếng Việt)** | Xây dựng hệ thống điều khiển tưới tiêu thông minh trên nền tảng IoT🌿 Smart Garden – Hệ Thống Tưới Cây Thông Minh
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-3.x-blue?logo=flutter" />
+  <img src="https://img.shields.io/badge/ESP32-IoT-green?logo=espressif" />
+  <img src="https://img.shields.io/badge/SQLite-local--db-lightgrey?logo=sqlite" />
+  <img src="https://img.shields.io/badge/Telegram-Bot-blue?logo=telegram" />
+  <img src="https://img.shields.io/badge/Open--Meteo-Weather%20API-orange" />
+  <img src="https://img.shields.io/badge/license-MIT-green" />
+</p>
+
+---
+
+## Mục lục
+
+1. [Thông tin chung](#1-thông-tin-chung)
+2. [Giới thiệu đề tài](#2-giới-thiệu-đề-tài)
+3. [Các chức năng chính](#3-các-chức-năng-chính)
+4. [Kiến trúc hệ thống](#4-kiến-trúc-hệ-thống)
+5. [Công nghệ sử dụng](#5-công-nghệ-sử-dụng)
+6. [Yêu cầu môi trường](#6-yêu-cầu-môi-trường)
+7. [Hướng dẫn cài đặt và chạy](#7-hướng-dẫn-cài-đặt-và-chạy)
+8. [Cấu trúc thư mục](#8-cấu-trúc-thư-mục)
+9. [Cơ sở dữ liệu](#9-cơ-sở-dữ-liệu)
+10. [Mô hình gợi ý thích ứng](#10-mô-hình-gợi-ý-thích-ứng)
+11. [API & Tài liệu kỹ thuật](#11-api--tài-liệu-kỹ-thuật)
+12. [Kiểm thử](#12-kiểm-thử)
+13. [Triển khai](#13-triển-khai)
+14. [Giao diện minh hoạ](#14-giao-diện-minh-hoạ)
+15. [Tài liệu liên quan](#15-tài-liệu-liên-quan)
+16. [Lời cảm ơn](#16-lời-cảm-ơn)
+17. [Trích dẫn](#17-trích-dẫn)
+18. [Liên hệ](#18-liên-hệ)
+
+---
+
+## 1. Thông tin chung
+
+| Mục | Thông tin |
+|:---|:---|
+| **Tên đề tài (Tiếng Việt)** | Xây dựng hệ thống điều khiển tưới tiêu thông minh trên nền tảng IoT |
+| **Tên đề tài (Tiếng Anh)** | Developing a smart irrigation control system based on IoT technology. |
+| **Sinh viên thực hiện** | Lê Thị Như Quỳnh |
+| **Mã số sinh viên** | 3120222112 |
+| **Lớp** | 22CNTT1 |
+| **Email sinh viên** | 3120222112@ued.udn.vn |
+| **Số điện thoại** | 0972427020 |
+| **Giảng viên hướng dẫn** | TS. Nguyễn Trần Quốc Vinh |
+| **Đơn vị công tác GVHD** | Khoa Toán — Tin, Trường Đại học Sư phạm — Đại học Đà Nẵng |
+| **Email GVHD** | ntqvinh@ued.udn.vn |
+| **Niên khoá** | 2022 — 2026 |
+| **Năm bảo vệ** | 2026 |
+| **Ngành đào tạo** | Công nghệ Thông tin |
+
 
 ### Thành viên nhóm
 
