@@ -38,13 +38,20 @@
 ## 1. Thông tin chung
 
 | Mục | Thông tin |
-|-----|-----------|
-| **Tên đề tài** | Xây dựng hệ thống điều khiển tưới tiêu thông minh trên nền tảng IoT |
-| **Trường** | [Trường Đại học Sư phạm - Đại học Đà Nẵng] |
-| **Khoa | [Khoa Toán - Tin] |
-| **Môn học** | [Khóa luận tốt nghiệp] |
-| **Học kỳ** | [Học kỳ 2] |
-| **Năm học** | 2025 – 2026 |
+|:---|:---|
+| **Tên đề tài (Tiếng Việt)** | Xây dựng hệ thống điều khiển tưới tiêu thông minh trên nền tảng IoT |
+| **Tên đề tài (Tiếng Anh)** | Developing a smart irrigation control system based on IoT technology. |
+| **Sinh viên thực hiện** | Lê Thị Như Quỳnh |
+| **Mã số sinh viên** | 3120222112 |
+| **Lớp** | 22CNTT1 |
+| **Email sinh viên** | 3120222112@ued.udn.vn |
+| **Số điện thoại** | 0972427020 |
+| **Giảng viên hướng dẫn** | TS. Nguyễn Trần Quốc Vinh |
+| **Đơn vị công tác GVHD** | Khoa Toán — Tin, Trường Đại học Sư phạm — Đại học Đà Nẵng |
+| **Email GVHD** | ntqvinh@ued.udn.vn |
+| **Niên khoá** | 2022 — 2026 |
+| **Năm bảo vệ** | 2026 |
+| **Ngành đào tạo** | Công nghệ Thông tin |
 
 ### Thành viên nhóm
 
