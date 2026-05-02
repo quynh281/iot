@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🌿 Smart Garden – Hệ Thống Tưới Cây Thông Minh
 
 <p align="center">
